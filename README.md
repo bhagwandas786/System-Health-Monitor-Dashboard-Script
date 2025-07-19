@@ -35,5 +35,24 @@ chmod +x simple_monitor.sh
 ./simple_monitor.sh
 
 ##OUTPUT##
-<img width="945" height="515" alt="Screenshot 2025-07-20 043552" src="https://github.com/user-attachments/assets/e9d61727-1923-4496-9f7b-03db867f0e19" />
+
+╔════════════ SYSTEM HEALTH MONITOR v1.0 ════════════╗  [R]efresh rate: 3s
+║ Hostname: Bunny-Tiger         Date: 2025-07-20 ║  [F]ilter: All
+║ Uptime: up 54 minutes                         ║  [Q]uit
+╚═══════════════════════════════════════════════════════════════════════╝
+CPU USAGE: 1% █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Process: System-Health-M  0.7,containerd       0.2 dockerd          0.0
+MEMORY: 488MB/7848MB (6%) ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Free: 7337MB | Cache: 171MB
+
+DISK USAGE:
+  / : 1% █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  /var/log : 1% █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  /home : 1% █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+NETWORK:
+  eth0 (in) : 0 MB/s █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  eth0 (out): 0 MB/s █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+LOAD AVERAGE:  0.08, 0.05, 0.01
 
