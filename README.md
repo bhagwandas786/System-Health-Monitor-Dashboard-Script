@@ -35,4 +35,5 @@ chmod +x simple_monitor.sh
 ./simple_monitor.sh
 
 ##OUTPUT##
-<img width="945" height="515" alt="image" src="https://github.com/user-attachments/assets/34e62b15-a746-452a-8d1b-d00c1733004f" />
+<img width="945" height="515" alt="Screenshot 2025-07-20 043552" src="https://github.com/user-attachments/assets/e9d61727-1923-4496-9f7b-03db867f0e19" />
+
