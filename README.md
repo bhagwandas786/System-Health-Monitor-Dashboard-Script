@@ -1,12 +1,6 @@
 # System-Health-Monitor-Dashboard-Script
 A real-time terminal-based dashboard built in Bash to monitor CPU, memory, disk, and network usage with color-coded bars and alert logging.
 
-# 🖥️ System Health Monitor Dashboard (v1.0)
-
-This is a simple **interactive Bash script** that shows a **real-time dashboard** for monitoring system health directly in your terminal. It uses ASCII bars, color indicators, and logs alerts when system metrics cross defined thresholds.
-
----
-
 ## 🚀 Features
 
 - 🔄 Refreshes every 3 seconds (configurable)
