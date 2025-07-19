@@ -33,3 +33,6 @@ A real-time terminal-based dashboard built in Bash to monitor CPU, memory, disk,
 ```bash
 chmod +x simple_monitor.sh
 ./simple_monitor.sh
+
+##OUTPUT##
+<img width="945" height="515" alt="image" src="https://github.com/user-attachments/assets/34e62b15-a746-452a-8d1b-d00c1733004f" />
